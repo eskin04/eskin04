@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eskin04)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eskin04&theme=dark&border_radius=10&locale=tr)](https://git.io/streak-stats)
